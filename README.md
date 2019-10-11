@@ -3,5 +3,7 @@
 ## 起動方法
 
 ```
+$ rm ./pgdata/.volumeignore
+
 $ docker-compose up --build -d
 ```
